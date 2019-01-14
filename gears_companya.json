@@ -1,0 +1,8 @@
+{ "name":"Toto", 
+      "legend": [{"name":"Project", "color":"red"},{"name":"Switchboard", "color":"yellow"},{"name":"Leave", "color":"green"}],
+      "peeps": [
+        {"name": "Albert", "am": "Switchboard", "pm": "Project"},
+        {"name": "Bill", "pm": "Project"},
+        {"name": "Charles", "am": "Leave" }
+      ]
+    }
