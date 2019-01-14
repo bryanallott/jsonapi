@@ -1,0 +1,8 @@
+{ "name":"ACME", 
+      "legend": [{"name":"Holiday", "color":"lightcoral"},{"name":"Actuary", "color":"yellow"},{"name":"Sick", "color":"purple"}],
+      "peeps": [
+        {"name": "Susan", "am": "Switchboard", "pm": "Project"},
+        {"name": "Ray", "pm": "Project"},
+        {"name": "Alfred", "am": "Leave" }
+      ]
+    }
